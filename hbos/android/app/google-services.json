@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1089598126282",
+    "firebase_url": "https://hbosfirestoredb-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "hbosfirestoredb",
+    "storage_bucket": "hbosfirestoredb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089598126282:android:7c12558cb33f6e8a7a5c33",
+        "android_client_info": {
+          "package_name": "com.projects.hbosFirestoreDB"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1yE46-f8yuO1yoBOl1UnfTph9361PpkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
